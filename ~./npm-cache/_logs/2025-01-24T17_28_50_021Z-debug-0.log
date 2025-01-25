@@ -1,0 +1,19 @@
+0 verbose cli /home/usman-hassan/.nvm/versions/node/v22.12.0/bin/node /home/usman-hassan/.nvm/versions/node/v22.12.0/bin/npm
+1 info using npm@11.0.0
+2 info using node@v22.12.0
+3 silly config load:file:/home/usman-hassan/.nvm/versions/node/v22.12.0/lib/node_modules/npm/npmrc
+4 silly config load:file:/home/usman-hassan/Desktop/project/.npmrc
+5 silly config load:file:/home/usman-hassan/.npmrc
+6 silly config load:file:/home/usman-hassan/.nvm/versions/node/v22.12.0/etc/npmrc
+7 verbose title npm config set cache /dev/null
+8 verbose argv "config" "set" "cache" "/dev/null"
+9 verbose logfile logs-max:10 dir:/home/usman-hassan/Desktop/project/~./npm-cache/_logs/2025-01-24T17_28_50_021Z-
+10 verbose logfile /home/usman-hassan/Desktop/project/~./npm-cache/_logs/2025-01-24T17_28_50_021Z-debug-0.log
+11 silly logfile done cleaning log files
+12 info config set "cache" "/dev/null"
+13 verbose cwd /home/usman-hassan/Desktop/project
+14 verbose os Linux 6.11.0-13-generic
+15 verbose node v22.12.0
+16 verbose npm  v11.0.0
+17 verbose exit 0
+18 info ok
